@@ -16,3 +16,7 @@
 * [论农村改革发展进程中的市场化建设](lun-nong-cun-gai-ge-fa-zhan-jin-cheng-zhong-de-shi-chang-hua-jian-she.md)
 * [加快发展资本市场推动产业结构调整](jia-kuai-fa-zhan-zi-ben-shi-chang-tui-dong-chan-ye-jie-gou-tiao-zheng.md)
 * [加入WTO与农村市场化建设](jia-ru-wto-yu-nong-cun-shi-chang-hua-jian-she.md)
+* [略论《关于费尔巴哈的提纲》的时代意义](lve-lun-guan-yu-fei-er-ba-ha-de-ti-gang-de-shi-dai-yi-yi.md)
+* [以调整优化产业结构为重点 加快经济结构的战略性调整(待补充)](yi-tiao-zheng-you-hua-chan-ye-jie-gou-wei-zhong-dian-jia-kuai-jing-ji-jie-gou-de-zhan-lve-xing-tiao.md)
+* [对发展社会主义市场经济的再认识](dui-fa-zhan-she-hui-zhu-yi-shi-chang-jing-ji-de-zai-ren-shi.md)
+* [加快福建城市化建设的若干思考](jia-kuai-fu-jian-cheng-shi-hua-jian-she-de-ruo-gan-si-kao.md)
