@@ -2,7 +2,7 @@
 
 * [习近平早期文选](README.md)
 * [序言](习近平早期文选.md)
-* [正确处理闽东经济发展的六个关系](zheng-que-chu-li-min-dong-jing-ji-fa-zhan-de-liu-ge-guan-xi.md)
+* [正确处理闽东经济发展的六个关系](./chapters/001.md)
 * [为官之道](wei-guan-zhi-dao.md)
 * [关于加强党的基层组织建设的思考](guan-yu-jia-qiang-dang-de-ji-ceng-zu-zhi-jian-she-de-si-kao.md)
 * [跨世纪领导干部的历史重任及必备素质](kua-shi-ji-ling-dao-gan-bu-de-li-shi-zhong-ren-ji-bi-bei-su-zhi.md)
